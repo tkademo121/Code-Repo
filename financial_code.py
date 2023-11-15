@@ -54,3 +54,21 @@ fig.update_yaxes(title_text='Amount', row=1, col=3)
 # Showing the figure 
 fig.show()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Changes by Jai
+newvar = 12345
+print(newvar)
